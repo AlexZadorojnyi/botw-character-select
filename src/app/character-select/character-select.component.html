@@ -1,5 +1,5 @@
 <div *ngFor="let hackFraud of hackFrauds"
      (click)="select(hackFraud)"
      [ngClass]="{'selected' : this.selectedFrauds.indexOf(hackFraud) !== -1}">
-  <img src="../../assets/images/faces/{{ hackFraud }}.jpg" alt="{{ hackFraud }}">
+  <img src="assets/images/faces/{{ hackFraud }}.jpg" alt="{{ hackFraud }}">
 </div>
