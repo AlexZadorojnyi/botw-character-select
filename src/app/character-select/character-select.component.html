@@ -1,5 +1,6 @@
-<div *ngFor="let hackFraud of hackFrauds"
-     (click)="select(hackFraud)"
-     [ngClass]="{'selected' : this.selectedFrauds.indexOf(hackFraud) !== -1}">
+<div *ngFor="let hackFraud of this.hfService.getHackFrauds()"
+     (click)="this.hfService.selectHackFraud(hackFraud)"
+     [ngClass]="{'selected' : this.hfService.hackFraudIsSelected(hackFraud),
+                 'unselectable' : this.hfService.hackFraudIsUnselectable(hackFraud)}">
   <img src="assets/images/faces/{{ hackFraud }}.jpg" alt="{{ hackFraud }}">
 </div>

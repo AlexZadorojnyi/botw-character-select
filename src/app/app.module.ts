@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CharacterSelectComponent } from './character-select/character-select.component';
 import { EpisodeFiltersComponent } from './episode-filters/episode-filters.component';
+import { EpisodesComponent } from './episodes/episodes.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CharacterSelectComponent,
-    EpisodeFiltersComponent
+    EpisodeFiltersComponent,
+    EpisodesComponent
   ],
   imports: [
     BrowserModule,

@@ -32,7 +32,7 @@
       vertical-align: middle;
 
       div {
-        float: right;
+        float: left;
         width: 12px;
         height: 12px;
         background-color: $hack-fraud-grey;
@@ -84,8 +84,8 @@
 
   .button--episode-types__toggle > div {
     background-color: $hack-fraud-white;
-    -webkit-transform: translateX(-12px);
-        -ms-transform: translateX(-12px);
-            transform: translateX(-12px);
+    -webkit-transform: translateX(12px);
+        -ms-transform: translateX(12px);
+            transform: translateX(12px);
   }
 }
