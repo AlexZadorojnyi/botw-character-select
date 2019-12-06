@@ -1,1 +1,36 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'scss/_vars.scss';
+
+*{
+  margin: 0;
+}
+
+body {
+  background-color: $hack-fraud-black;
+}
+
+#banner {
+  background-color: $hack-fraud-white;
+  height: 75px;
+  text-align: center;
+  font-family: 'Bowlby One SC', sans-serif;
+  font-size: 60px;
+  line-height: 75px;
+  color: $hack-fraud-orange;
+
+  span {
+    font-size: 40px;
+    color: $hack-fraud-black;
+  }
+}
+
+app-root {
+  display: grid;
+  grid-template-columns: auto 305px 575px auto;
+  grid-column-gap: 30px;
+  grid-template-rows: 0px 80px auto;
+  grid-row-gap: 20px;
+  grid-template-areas:
+    '. . . .'
+    '. characters episode-filters .'
+    '. characters episodes .';
+}

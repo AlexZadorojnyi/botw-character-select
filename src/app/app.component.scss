@@ -1,0 +1,14 @@
+@import '../scss/_vars.scss';
+
+app-character-select {
+  grid-area: characters;
+  text-align: center;
+}
+
+app-episode-filters {
+  grid-area: episode-filters;
+}
+
+#episodes {
+  grid-area: episodes;
+}

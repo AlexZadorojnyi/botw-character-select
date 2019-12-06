@@ -1,0 +1,9 @@
+<div class="button button--episode-types"
+     *ngFor="let episodeType of episodeTypes"
+     (click)="select(episodeType)"
+     [ngClass]="{'selected' : this.selectedEpisodeTypes.indexOf(episodeType) !== -1}">
+  <div class="button--episode-types__toggle"><div></div></div>
+  <span class="button--episode-types__text">{{ episodeType }}</span>
+</div>
+<div class="button button--order"><span>^</span></div>
+<div class="button button--clear" (click)="reset()"><span>Reset</span></div>
