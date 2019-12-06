@@ -1,0 +1,690 @@
+[
+	{
+		"title": "Best of the Worst Episode 1",
+		"episodeNumber": 1,
+		"videoID": "q6TY-nBkxqY",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Mike", "Jessi", "Jay", "Josh" ],
+		"movies": [ "Russian Terminator", "Ninja Vengeance", "Never too Young to Die" ]
+	},
+	{
+		"title": "Best of the Worst: The New Gladiators, Exterminator 2, and Aftermath",
+		"episodeNumber": 2,
+		"videoID": "cnDJa_HZVP0",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Josh", "Rich", "Jay", "Jack" ],
+		"movies": [ "The New Gladiators", "Exterminator 2", "Aftermath" ]
+	},
+	{
+		"title": "Best of the Worst Episode 3: The Killer Eye, They Bite, and Xtro",
+		"episodeNumber": 3,
+		"videoID": "vcBkm1nOI5k",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Josh", "Mike", "Jessi", "Jack" ],
+		"movies": [ "The Killer Eye", "They Bite", "Xtro" ]
+	},
+	{
+		"title": "Best of the Worst: Deadly Prey, Hard Ticket to Hawaii, and Miami Connection",
+		"episodeNumber": 4,
+		"videoID": "mbWTthXfdBc",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Jack", "Josh", "Jay" ],
+		"movies": [ "Deadly Prey", "Hard Ticket to Hawaii", "Miami Connection" ]
+	},
+	{
+		"title": "Best of the Worst: The Wheel of the Worst",
+		"episodeNumber": 5,
+		"videoID": "JkWk_chVcJk",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jay", "Rich", "Jessi", "Mike" ],
+		"movies": [ "Candid Camera Vol. 6", "Let's Rap Fire Safety", "The Dance of Birth" ]
+	},
+	{
+		"title": "Best of the Worst: The Vindicator, Cyber Tracker, Robot Jox, and R.O.T.O.R.",
+		"episodeNumber": 6,
+		"videoID": "s76vZATqLrE",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jay", "Josh", "Rich", "Jack" ],
+		"movies": [ "The Vindicator", "Cyber Tracker", "Robot Jox", "R.O.T.O.R." ]
+	},
+	{
+		"title": "Best of the Worst: Playing Dangerous, Shapeshifter, and Thunderpants",
+		"episodeNumber": 7,
+		"videoID": "WGI-BKctOK8",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Mike", "Jessi", "Rich", "Jay" ],
+		"movies": [ "Playing Dangerous", "Shapeshifter", "Thunderpants" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #2",
+		"episodeNumber": 8,
+		"videoID": "7Kf00CUxMto",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jack", "Mike", "Rich", "Josh" ],
+		"movies": [ "Key Matters", "Gary Coleman For Safery's Sake", "The Family Guide to the Internet" ]
+	},
+	{
+		"title": "Best of the Worst: V-World Matrix, The Amazing Bulk, and ????",
+		"episodeNumber": 9,
+		"videoID": "o4HOlhADlZo",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jay", "Rich", "Mike", "Colin" ],
+		"movies": [ "V-World Matrix", "The Amazing Bulk", "Gymkata" ]
+	},
+	{
+		"title": "Best of the Worst: Bloody Birthday, Crazy Fat Ethel II, and Psycho From Texas",
+		"episodeNumber": 10,
+		"videoID": "x94zXO02VPU",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jay", "Gillian", "Jack", "Mike" ],
+		"movies": [ "Bloody Birthday", "Crazy Fat Ethel II", "Psycho from Texas" ]
+	},
+	{
+		"title": "1Best of the Worst: Night Beast, Trick or Treat, and Skull Forest",
+		"episodeNumber": 11,
+		"videoID": "J7eSdXLmj9A",
+		"type": [ "Best of the Worst", "Halloween Special" ],
+		"cast": [ "Jack", "Jay", "Rich", "Mike" ],
+		"movies": [ "Night Beast", "Trick or Treat", "Skull Forest" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #3",
+		"episodeNumber": 12,
+		"videoID": "5fkjMstO-t0",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Rich", "Mike", "Jessi", "Jay" ],
+		"movies": [ "Tree Stand Safety", "Where Did I Come From", "Incredible Instant Adoring Boyfriend" ]
+	},
+	{
+		"title": "Best of the Worst: Playing Dangerous 2, The Exterminator, and The Deadliest Prey",
+		"episodeNumber": 13,
+		"videoID": "kdGfGjusufo",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Jack", "Josh", "Jay" ],
+		"movies": [ "Playing Dangerous 2", "The Exterminator", "The Deadliest Prey" ]
+	},
+	{
+		"title": "Best of the Worst: Elves, Santa Claus, and Christmas Vacation 2",
+		"episodeNumber": 14,
+		"videoID": "3plH6M1LadY",
+		"type": [ "Best of the Worst", "Christmas Special" ],
+		"cast": [ "Rich", "Jack", "Jessi", "Mike" ],
+		"movies": [ "Elves", "Santa Claus", "Christmas Vacation 2" ]
+	},
+	{
+		"title": "Best of the Worst: Robo-C.H.I.C., Alien Seed, and Yor: The Hunter from the Future",
+		"episodeNumber": 15,
+		"videoID": "Hb_VwaOT4QQ",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Josh", "Mike", "Jay" ],
+		"movies": [ "Robo-C.H.I.C.", "Alien Seed", "Yor: The Hunter from the Future" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #4",
+		"episodeNumber": 16,
+		"videoID": "kakU6kQDmU4",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jay", "Rich", "Jessi", "Mike" ],
+		"movies": [ "Kitten Kommotion", "Dunkin' Donuts Video", "The Shoji Tabuchi Show" ]
+	},
+	{
+		"title": "Best of the Worst: Supergirl, Captain America (1990), and Roger Corman's Fantastic Four",
+		"episodeNumber": 17,
+		"videoID": "d-O_RzwrZPw",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jack", "Josh", "Rich", "Jay" ],
+		"movies": [ "Supergirl", "Captain America", "Roger Corman's Fantastic Four" ]
+	},
+	{
+		"title": "Best of the Worst: Ninja Movies",
+		"episodeNumber": 18,
+		"videoID": "ZERv4Q92vXA",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Mike", "Len", "Jack", "Jay" ],
+		"movies": [ "Ninja 3: The Domination", "Ninja Warriors", "Lethal Ninja" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #5",
+		"episodeNumber": 19,
+		"videoID": "ceUSZBMeREY",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jay", "Mike", "Rich", "Jack" ],
+		"movies": [ "Ted Levine's Original Clearedfor Takeoff", "Tales from Genesis Space", "S.O.S." ]
+	},
+	{
+		"title": "Best of the Worst: Ghetto Blaster, Terror in Beverly Hills, and Killing American Style",
+		"episodeNumber": 20,
+		"videoID": "AND1YZSp6YI",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jim", "Colin", "Rich", "Jay" ],
+		"movies": [ "Ghetto Blaster", "Terror in Beverly Hills", "Killing American Style" ]
+	},
+	{
+		"title": "Best of the Worst: High Voltage, Death Spa, and Space Mutiny",
+		"episodeNumber": 21,
+		"videoID": "6pgbB9ORqRg",
+		"type": [ "Best of the Worst", "Battle of the Genres" ],
+		"cast": [ "Rich", "Mike", "Josh", "Jay" ],
+		"movies": [ "High Voltage", "Death Spa", "Space Mutiny" ]
+	},
+	{
+		"title": "Best of the Worst: Shakma, Python II, and Beaks: The Movie",
+		"episodeNumber": 22,
+		"videoID": "QAzZceRTmpc",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jack", "Rich", "Jay", "Mike" ],
+		"movies": [ "Shakma", "Python II", "Beaks: The Movie" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #6",
+		"episodeNumber": 23,
+		"videoID": "aA2Z16QiNsE",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Mike", "Jessi", "Colin", "Jim" ],
+		"movies": [ "How Can I Tell if I'm Really in Love", "The Osteoporosis Dance", "American Flatulators" ]
+	},
+	{
+		"title": "Best of the Worst: Theodore Rex, Carnosaur, Tammy and the T-Rex",
+		"episodeNumber": 24,
+		"videoID": "t4pJL1eAh00",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Josh", "Jay", "Rich", "Jack" ],
+		"movies": [ "Theodore Rex", "Carnosaur", "Tammy and the T-Rex" ]
+	},
+	{
+		"title": "Best of the Worst: The Item, The Crawlers, and Blood Lock",
+		"episodeNumber": 25,
+		"videoID": "n747ktceuwI",
+		"type": [ "Best of the Worst", "Halloween Special" ],
+		"cast": [ "Mike", "Jessi", "Jay", "Josh" ],
+		"movies": [ "The Item", "The Crawlers", "Blood Lock" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #7",
+		"episodeNumber": 26,
+		"videoID": "wZFuyATj5EI",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jay", "Mike", "Rich", "Freddie" ],
+		"movies": [ "Ice Dams", "Kids and Airbags", "How to Become a Teenage Ninja" ]
+	},
+	{
+		"title": "Best of the Worst: The Star Wars Holiday Special",
+		"episodeNumber": 27.1,
+		"videoID": "_CtUd0yuYN4",
+		"type": [ "Spotlight Episode", "Chrimstas Special" ],
+		"cast": [ "Jack", "Rich", "Mike", "Jay" ],
+		"movies": [ "The Star Wars Holiday Special" ]
+	},
+	{
+		"title": "Best of the Worst: The Star Wars Holiday Special (FOR REAL)",
+		"episodeNumber": 27.2,
+		"videoID": "xW4m0oYK0WQ",
+		"type": [ "Spotlight Episode", "Chrimstas Special" ],
+		"cast": [ "Jack", "Rich", "Mike", "Jay" ],
+		"movies": [ "The Star Wars Holiday Special" ]
+	},
+	{
+		"title": "Best of the Worst: Alienator, Alien from the Deep, and Hands of Steel",
+		"episodeNumber": 28,
+		"videoID": "z5PnYARAyUw",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Mike", "Jack", "Jay" ],
+		"movies": [ "Alienator", "Alien from the Deep", "Hands of Steel" ]
+	},
+	{
+		"title": "Best of the Worst: Blood Debts, The Tomb, and Undefeatable",
+		"episodeNumber": 29,
+		"videoID": "3NTaoheLMvM",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Mike", "Rich", "Josh", "Jack" ],
+		"movies": [ "Blood Debts", "The Tomb", "Undefeatable" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #8",
+		"episodeNumber": 30,
+		"videoID": "X0wdZHNwV7s",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jack", "Jay", "Mike", "Rich" ],
+		"movies": [ "Let's Sing and Dance Music Video", "Geritol Follies 20th Anniversary 1975-1995", "Gun Safety with Eddie Eagle" ]
+	},
+	{
+		"title": "Best of the Worst: Lady Terminator, Lost in Dinosaur World, and Low Blow",
+		"episodeNumber": 31,
+		"videoID": "JPfamikeU3E",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Colin", "Jay", "Jack" ],
+		"movies": [ "Lady Terminator", "Lost in Dinosaur World", "Low Blow" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #9",
+		"episodeNumber": 32,
+		"videoID": "ZCtnb81OhV4",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Mike", "Colin", "Jim", "Rich" ],
+		"movies": [ "America Online for Interent", "Backyard Stunting Hits & Misses", "Rainbow's Remedy" ]
+	},
+	{
+		"title": "Best of the Worst: Future War, The Jar, and White Fire",
+		"episodeNumber": 33,
+		"videoID": "JsnzlIests4",
+		"type": [ "Best of the Worst", "Battle of the Genres" ],
+		"cast": [ "Jay", "Josh", "Mike", "Rich" ],
+		"movies": [ "Future War", "The Jar", "White Fire" ]
+	},
+	{
+		"title": "Best of the Worst: Kiss Meets the Phantom of the Park, Killer Workout, and Mystics in Bali",
+		"episodeNumber": 34,
+		"videoID": "mA5f86pD7o4",
+		"type": [ "Best of the Worst", "Halloween Special" ],
+		"cast": [ "Rich", "Mike", "Jack", "Jay" ],
+		"movies": [ "Kiss Meets the Phantom of the Park", "Killer Workout", "Mystics in Bali" ]
+	},
+	{
+		"title": "Best of the Worst: The Photon Effect, How I Saved the President, and Double Down",
+		"episodeNumber": 35,
+		"videoID": "2-3wkbqmgxs",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jay", "Mike", "Max", "Rich" ],
+		"movies": [ "The Photon Effect", "How I Saved the President", "Double Down" ]
+	},
+	{
+		"title": "Best of the Worst: A Very Cannon Christmas",
+		"episodeNumber": 36,
+		"videoID": "fgbPUHfBJA0",
+		"type": [ "Best of the Worst", "Christmas Special" ],
+		"cast": [ "Mike", "Rich", "Josh", "Jay" ],
+		"movies": [ "Death Wish 3", "The Christmas Tree", "Invasion U.S.A." ]
+	},
+	{
+		"title": "Best of the Worst Episode 37 - Wheel of the Worst 10",
+		"episodeNumber": 37,
+		"videoID": "ZmRs1QjHU-k",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Mike", "Rich", "Jack", "Jay" ],
+		"movies": [ "Show Off!", "Motherlode", "Exploding Varmints" ]
+	},
+	{
+		"title": "Best of the Worst: Order of the Black Eagle, Wired to Kill, and Raiders of Atlantis",
+		"episodeNumber": 38,
+		"videoID": "CONHKI2q-DM",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Josh", "Mike", "Rich", "Jay" ],
+		"movies": [ "Order of the Black Eagle", "Wired to Kill", "Raiders of Atlantis" ]
+	},
+	{
+		"title": "Best of the Worst: Plinketto #1",
+		"episodeNumber": 39,
+		"videoID": "X4WzW8wYr0o",
+		"type": [ "Plinketto" ],
+		"cast": [ "Rich", "Mike", "Jack", "Josh" ],
+		"movies": [ "Double Dragon", "Deathstalker", "Dr. Butcher M.D." ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #11",
+		"episodeNumber": 40,
+		"videoID": "-M2khjpOxzc",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Mike", "Jack", "Jay", "Rich" ],
+		"movies": [ "How to Seduce Women", "How to Get Revenge", "UPC Codes and 666" ]
+	},
+	{
+		"title": "Best of the Worst: Pocket Ninjas, Cyclone, and Dangerous Men",
+		"episodeNumber": 41,
+		"videoID": "3mRJmcuC-8Y",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jay", "Jack", "Rich", "Josh" ],
+		"movies": [ "Pocket Ninjas", "Cyclone", "Dangerous Men" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #12",
+		"episodeNumber": 42,
+		"videoID": "n8uKazrF2r8",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Colin", "Jay", "Jim", "Rich" ],
+		"movies": [ "My Twinn", "(Magic) Trick(s) You Can Do", "Learning the Alphabet with Ms. Udderly" ]
+	},
+	{
+		"title": "Best of the Worst: Plinketto #2",
+		"episodeNumber": 43,
+		"videoID": "rXYcFYaN_ns",
+		"type": [ "Plinketto" ],
+		"cast": [ "Jay", "Jack", "Rich", "Mike" ],
+		"movies": [ "Mutant Spiecies", "The Skateboard Kid", "Repo Jake" ]
+	},
+	{
+		"title": "Best of the Worst: Parole Violators, Future Force, and Geteven",
+		"episodeNumber": 44,
+		"videoID": "7Bd_CLKt9yA",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Colin", "Jim", "Mike" ],
+		"movies": [ "Parole Violators", "Future Force", "Geteven" ]
+	},
+	{
+		"title": "Best of the Worst: Scary or Die, Chopping Mall, Exorcist II: The Heretic",
+		"episodeNumber": 45,
+		"videoID": "LLanYkRg09I",
+		"type": [ "Best of the Worst", "Halloween Special" ],
+		"cast": [ "Jack", "Josh", "Jay", "Rich" ],
+		"movies": [ "Scary or Die", "Chopping Mall", "Exorcist II: The Heretic" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst 13",
+		"episodeNumber": 46,
+		"videoID": "ELYudG_0j3c",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jay", "Jack", "Mike", "Josh" ],
+		"movies": [ "Get Street Smart: A Kid's Guide to Stranger Dangers", "Traveling with Ooga Booga: On Trains, Trucks, and Airplanes", "Dr. Misterio's Patented Video Almanac of Fun Vol. 2", "Bear Attacks", "The Best of Just Kdding! Rude Pranks & Dirty Gags", "Nightmare on Drug Street", "Safe Crossing: An Egg-cellent Idea", "How to Spot Counterfeit Beanie Babies" ]
+	},
+	{
+		"title": "Best of the Worst: RepliGATOR, Johnson Family Christmas Dinner, and Alligator",
+		"episodeNumber": 47,
+		"videoID": "Urd5vtoGmfI",
+		"type": [ "Best of the Worst", "Christmas Special" ],
+		"cast": [ "Rich", "Jay", "Jack", "Mike" ],
+		"movies": [ "RepliGATOR", "Johnson Family Christmas Dinner", "Alligator" ]
+	},
+	{
+		"title": "Best of the Worst: Episode 48: Plinketto #3",
+		"episodeNumber": 48,
+		"videoID": "zVijUWZwZo4",
+		"type": [ "Plinketto" ],
+		"cast": [ "Mike", "Jack", "Josh", "Rich" ],
+		"movies": [ "The Survivor", "Keaton's Cop", "Space Raiders" ]
+	},
+	{
+		"title": "Best of the Worst: Carnosaur 2, The Skateboard Kid 2, and Future Zone",
+		"episodeNumber": 49,
+		"videoID": "9cNUg3XvVKk",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jay", "Jack", "Josh", "Rich" ],
+		"movies": [ "Carnosaur 2", "The Skateboard Kid 2", "Future Zone" ]
+	},
+	{
+		"title": "Best of the Worst: Biohazard, Slaughter High, and Kill Point",
+		"episodeNumber": 50,
+		"videoID": "7lGxABYQG8M",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Freddie", "Jay", "Mike", "Rich" ],
+		"movies": [ "Biohazard", "Slaughter High", "Kill Point" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #14",
+		"episodeNumber": 51,
+		"videoID": "jtshsLOoMbM",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jay", "Mike", "Rich", "Josh" ],
+		"movies": [ "Hospital Clowning", "Wormania", "Octopuff in Kumqwat", "A Day of Joy" ]
+	},
+	{
+		"title": "Best of the Worst: Bigfoot vs D.B. Cooper, Black Cougar, and Raw Force",
+		"episodeNumber": 52,
+		"videoID": "H1s4zrjlzWg",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Mike", "Jack", "Len" ],
+		"movies": [ "Bigfoot vs D.B. Cooper", "Black Cougar", "Raw Force" ]
+	},
+	{
+		"title": "Best of the Worst: Hollywood Cop",
+		"episodeNumber": 53,
+		"videoID": "9PILodU2wXw",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Jay", "Mike", "Rich" ],
+		"movies": [ "Hollywood Cop" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #15",
+		"episodeNumber": 54,
+		"videoID": "ebb8baFaQ-s",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Colin", "Mike", "Jim", "Rich" ],
+		"movies": [ "The Golden Road", "Hanging with Leo", "Telepathic Communcation with Animals" ]
+	},
+	{
+		"title": "Best of the Worst: The Sweeper, Empire of the Dark, and Mad Foxes",
+		"episodeNumber": 55,
+		"videoID": "kWKlmbTudD8",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Mike", "Josh", "Jay", "Rich" ],
+		"movies": [ "The Sweeper", "Empire of the Dark", "Mad Foxes" ]
+	},
+	{
+		"title": "Best of the Worst: The Last Vampire on Earth",
+		"episodeNumber": 56,
+		"videoID": "y43vWEPkceM",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Colin", "Jay", "Rich", "Mike" ],
+		"movies": [ "The Last Vampire on Earth" ]
+	},
+	{
+		"title": "Best of the Worst: Plinketto #4",
+		"episodeNumber": 57,
+		"videoID": "Q7TxylhyW1Y",
+		"type": [ "Plinketto" ],
+		"cast": [ "Mike", "Jack", "Jay", "Rich" ],
+		"movies": [ "Turbulance 3: Heavy Metal", "Little Bigfoot", "Feeders" ]
+	},
+	{
+		"title": "Best of the Worst: Vampire Assassin, Hack-O-Lantern, and Cathy's Curse",
+		"episodeNumber": 58,
+		"videoID": "W1QJazEHMUo",
+		"type": [ "Best of the Worst", "Halloween Special" ],
+		"cast": [ "Josh", "Mike", "Jay", "Jack" ],
+		"movies": [ "Vampire Assassin", "Hack-O-Lantern", "Cathy's Curse" ]
+	},
+	{
+		"title": "Best of the Worst: Suburban Sasquatch",
+		"episodeNumber": 59,
+		"videoID": "OCmolso_LrQ",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Jack", "Jay", "Mike", "Rich" ],
+		"movies": [ "Suburban Sasquatch" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #16",
+		"episodeNumber": 60,
+		"videoID": "p1sxc3V0lzQ",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Rich", "Josh", "Jay", "Mike" ],
+		"movies": [ "Surviving Edged Weapons", "Manners Who Needs Them", "Top Slots: Spotting the Best" ]
+	},
+	{
+		"title": "Best of the Worst: Merry Kick-mas!",
+		"episodeNumber": 61,
+		"videoID": "PSqcvmLE0ek",
+		"type": [ "Best of the Worst", "Christmas Special" ],
+		"cast": [ "Jack", "Jay", "Mike", "Rich" ],
+		"movies": [ "Karate Cop", "The Christmas Light", "Night of the Kickfighters" ]
+	},
+	{
+		"title": "Best of the Worst: Plinketto #5",
+		"episodeNumber": 62,
+		"videoID": "I1dxYbL-t5c",
+		"type": [ "Plinketto" ],
+		"cast": [ "Jack", "Mike", "Josh", "Jay" ],
+		"movies": [ "The Nail Gun Massacre", "Deathstalker 2", "Princess Warrior" ]
+	},
+	{
+		"title": "Best of the Worst: The Black Spine Edition",
+		"episodeNumber": 63,
+		"videoID": "_igaLv7ro8o",
+		"type": [ "Black Spine Edition", "Spotlight Episode" ],
+		"cast": [ "Jay", "Jack", "Rich", "Mike" ],
+		"movies": [ "Blackstreetboyz", "Don Beveridge Customerization Seminar", "Plymouth International Ice Spectacular", "Partners" ]
+	},
+	{
+		"title": "Best of the Worst: Hologram Man, Faust, and Blood Street",
+		"episodeNumber": 64,
+		"videoID": "f1je3wob5JA",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jay", "Jack", "Rich", "Mike" ],
+		"movies": [ "Hologram Man", "Faust", "Blood Street" ]
+	},
+	{
+		"title": "Best of the Worst: Plinketto #6",
+		"episodeNumber": 65,
+		"videoID": "0JcNT6jYGwI",
+		"type": [ "Plinketto" ],
+		"cast": [ "Mike", "Jay", "Simon", "Rich" ],
+		"movies": [ "Rocktober Blood", "The Pit", "Mankillers" ]
+	},
+	{
+		"title": "Best of the Worst: Kill Squad, Ryan's Babe, and Demonwarp",
+		"episodeNumber": 66,
+		"videoID": "jcK4ioF8ODc",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Josh", "Jay", "Jack" ],
+		"movies": [ "Kill Squad", "Ryan's Babe", "Demonwarp" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #17",
+		"episodeNumber": 67,
+		"videoID": "03XdyJN_hR8",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Mike", "Colin", "Jim", "Rich" ],
+		"movies": [ "Celebration of Age", "Hug a Tree and Survive Canada", "Mr. Wiggles Sessions Vol. 1", "World Wide Web of Deceit" ]
+	},
+	{
+		"title": "Best of the Worst: Night of the Lepus, Zombie 3, and Silk",
+		"episodeNumber": 68,
+		"videoID": "m0QUo5jnhYE",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Mike", "Jay", "Josh" ],
+		"movies": [ "Night of the Lepus", "Zombie 3", "Silk", "Pass Thru" ]
+	},
+	{
+		"title": "Best of the Worst: Lycan Colony",
+		"episodeNumber": 69,
+		"videoID": "5nQYdtaH41k",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Mike", "Josh", "Rich", "Jack" ],
+		"movies": [ "Lycan Colony" ]
+	},
+	{
+		"title": "Best of the Worst: Carnivore, HauntedWeen, and Black Roses",
+		"episodeNumber": 70,
+		"videoID": "7AbMMTwu3Fs",
+		"type": [ "Best of the Worst", "Halloween Special" ],
+		"cast": [ "Jack", "Mike", "Jay", "Rich" ],
+		"movies": [ "Carnivore", "HauntedWeen", "Black Roses" ]
+	},
+	{
+		"title": "Best of the Worst: Black Spine Edition #2",
+		"episodeNumber": 71,
+		"videoID": "11IO-mo8t74",
+		"type": [ "Black Spine Edition" ],
+		"cast": [ "Rich", "Tim", "Mike", "Jay" ],
+		"movies": [ "Leap to the Future Girl Scout Cooking 2000 Troop Training", "Table Manners From Tots to Teens", "Kimo's Fierce Fighting! No Holds Barred Vol. 8" ]
+	},
+	{
+		"title": "Best of the Worst: Plinketto #7",
+		"episodeNumber": 72,
+		"videoID": "a_FURNuBeQg",
+		"type": [ "Plinketto" ],
+		"cast": [ "Jay", "Mike", "Mack", "Rich" ],
+		"movies": [ "Prototype X29A", "Quigley", "Home Alone: Taking Back the House" ]
+	},
+	{
+		"title": "Best of the Worst: Christmas or Cats",
+		"episodeNumber": 73,
+		"videoID": "8LsPkYeaKBs",
+		"type": [ "Best of the Worst", "Christmas Special" ],
+		"cast": [ "Rich", "Jay", "Josh", "Mike" ],
+		"movies": [ "Two Front Teeth", "Uninvited", "Christy: Santa's First Female Reindeer" ]
+	},
+	{
+		"title": "Best of the Worst: Cybernator, Panther Squad, and Project Metalbeast",
+		"episodeNumber": 74,
+		"videoID": "yXNlNvZwBUw",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Mike", "Jay", "Freddie" ],
+		"movies": [ "Cybernator", "Panther Squad", "Project Metalbeast" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #18",
+		"episodeNumber": 75,
+		"videoID": "FT5D7rJ8TPQ",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jay", "Josh", "Mike", "Rich" ],
+		"movies": [ "Law Enforcement Guide to Satanic Cults", "Preventing Disaster at the Crossing", "Creating Rem Lezar" ]
+	},
+	{
+		"title": "Best of the Worst: Spookies, Action USA, and Alien Private Eye",
+		"episodeNumber": 76,
+		"videoID": "6hHyn29O81k",
+		"type": [ "Best of the Worst", "Battle of the Genres" ],
+		"cast": [ "Jack", "Rich", "Tim", "Jay" ],
+		"movies": [ "Spookies", "Action USA", "Alien Private Eye" ]
+	},
+	{
+		"title": "Best of the Worst: Twister's Revenge",
+		"episodeNumber": 77,
+		"videoID": "uara5ZBTXQg",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Mike", "Jay", "Rich" ],
+		"movies": [ "Twister's Revenge" ]
+	},
+	{
+		"title": "Best of the Worst Episode 78",
+		"episodeNumber": 78,
+		"videoID": "IKdWSYCM8Ug",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Mike", "Mack", "Jay", "Rich" ],
+		"movies": [ "Aggregate Training for the Safety Impared", "Experience the Freedom of the Naturist Lifestyle", "Orgasmic Birth", "Hostage Officer Survival" ]
+	},
+	{
+		"title": "Best of the Worst: Black Spine Edition #3",
+		"episodeNumber": 79,
+		"videoID": "brmz6uL1S0s",
+		"type": [ "Black Spine Edition" ],
+		"cast": [ "Jack", "Rich", "Mike", "Jay" ],
+		"movies": [ "Chairobics", "Riding Mower Safety", "California Big Hunks", "A Touch of Magic", "Can't Fool Me" ]
+	},
+	{
+		"title": "Best of the Worst: Hawk Jones, Winterbeast, and ROAR",
+		"episodeNumber": 80,
+		"videoID": "YaSkO4TosYo",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Josh", "Mack", "Mike", "Shawn" ],
+		"movies": [ "Hawk Jones", "Winterbeast", "ROAR" ]
+	},
+	{
+		"title": "Best of the Worst: Plinketto #8",
+		"episodeNumber": 81,
+		"videoID": "t4s0KT_z98A",
+		"type": [ "Plinketto" ],
+		"cast": [ "Jay", "Mike", "Patton", "Rich" ],
+		"movies": [ "Demon Cop", "Alien Force", "Game(s) of Survival" ]
+	},
+	{
+		"title": "Best of the Worst: Petey Wheatstraw",
+		"episodeNumber": 82,
+		"videoID": "ngrVbx5xoh0",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Mike", "Jay", "Josh", "Jack" ],
+		"movies": [ "Petey Wheatstraw" ]
+	},
+	{
+		"title": "Best of the Worst: The Instructor, Through Doohan's Eye, and Twisted Pair",
+		"episodeNumber": 83,
+		"videoID": "m2IV0BajqAk",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Jay", "Colin", "Jim", "Rich" ],
+		"movies": [ "The Instructor", "Through Doohan's Eye", "Twisted Pair" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #20",
+		"episodeNumber": 84,
+		"videoID": "26si7WjhV-g",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Jay", "Mike", "Josh", "Rich" ],
+		"movies": [ "Energy and Me", "Christmas with Dennis", "The Thing About Money", "Shape Up America" ]
+	},
+	{
+		"title": "Best of the Worst: Jack-O, Rock n' Roll Nightmare, and Shark Exorcist",
+		"episodeNumber": 85,
+		"videoID": "X7_ZU4dlqXk",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Josh", "Jay", "Mike", "Jack" ],
+		"movies": [ "Jack-O", "Rock n' Roll Nightmare", "Shark Exorcist" ]
+	}
+]
