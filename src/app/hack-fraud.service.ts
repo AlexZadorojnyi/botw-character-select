@@ -7,8 +7,9 @@ import episodes from '../assets/episodes.json';
 export class HackFraudService {
 
   Episodes: any = episodes;
-  private episodesAvailable = this.Episodes.slice();
 
+  private hackFraudsSelected = [];
+  private hackFraudsUnselectable = [];
   private hackFrauds = [
     'Mike', 'Jay', 'Rich',
     'Jack', 'Josh', 'Jessi',
@@ -17,10 +18,19 @@ export class HackFraudService {
     'Simon', 'Shawn', 'Patton',
     'Max', 'Gillian'
   ];
-  private hackFraudsSelected = [];
-  private hackFraudsUnselectable = [];
 
-  constructor() { }
+  private episodeTypesSelected = [];
+  private episodeTypes = [
+    'Best of the Worst', 'Wheel of the Worst', 'Plinketto',
+    'Spotlight Episode', 'Black Spine Edition', 'Battle of the Genres',
+    'Christmas Special', 'Halloween Special'
+  ];
+
+  private episodesAvailable = this.Episodes.slice();
+
+  constructor() {
+    this.episodeTypesSelected = Object.assign([], this.episodeTypes);
+  }
 
   getHackFrauds() {
     return this.hackFrauds.slice();
@@ -32,10 +42,12 @@ export class HackFraudService {
 
   selectHackFraud(hackFraud: string) {
     const i = this.hackFraudsSelected.indexOf(hackFraud);
-    if (i !== -1) {
-      this.hackFraudsSelected.splice(i, 1);
+    if (i === -1) {
+      if (!this.hackFraudsUnselectable.includes(hackFraud)) {
+        this.hackFraudsSelected.push(hackFraud);
+      }
     } else {
-      this.hackFraudsSelected.push(hackFraud);
+      this.hackFraudsSelected.splice(i, 1);
     }
     this.hackFraudsSelected.sort();
     // console.log(this.hackFraudsSelected);
@@ -45,7 +57,7 @@ export class HackFraudService {
   }
 
   hackFraudIsSelected(hackFraud: string) {
-    return this.hackFraudsSelected.indexOf(hackFraud) !== -1;
+    return this.hackFraudsSelected.includes(hackFraud);
   }
 
   hackFraudIsUnselectable(hackFraud: string) {
@@ -57,7 +69,7 @@ export class HackFraudService {
     this.episodesAvailable.forEach(episode => {
       let i = 0;
       this.hackFraudsSelected.forEach(hackFraud => {
-        if (episode.cast.indexOf(hackFraud) !== -1) {
+        if (episode.cast.includes(hackFraud)) {
           i++;
         }
       });
@@ -72,6 +84,30 @@ export class HackFraudService {
     );
   }
 
+  getEpisodeTypes() {
+    return this.episodeTypes;
+  }
+
+  selectEpisodeFilter(episodeType: string) {
+    const i = this.episodeTypesSelected.indexOf(episodeType);
+    if (i !== -1) {
+      this.episodeTypesSelected.splice(i, 1);
+    } else {
+      this.episodeTypesSelected.push(episodeType);
+    }
+    // console.log(this.episodeTypesSelected);
+    this.filterEpisodes();
+  }
+
+  episodeTypeIsSelected(episodeType: string) {
+    return this.episodeTypesSelected.includes(episodeType);
+  }
+
+  resetEpisodeFilters() {
+    this.episodeTypesSelected = Object.assign([], this.episodeTypes);
+    console.log(this.episodeTypesSelected);
+  }
+
   getEpisodesAvailable() {
     return this.episodesAvailable;
   }
@@ -79,10 +115,11 @@ export class HackFraudService {
   filterEpisodes() {
     let episodesTemp = this.Episodes.slice();
     this.hackFraudsSelected.forEach(hackFraud =>
-      episodesTemp = episodesTemp.filter(
-        episode => episode.cast.indexOf(hackFraud) !== -1
+      episodesTemp = episodesTemp.filter(episode =>
+        episode.cast.includes(hackFraud)
       ));
-    console.log(episodesTemp);
+    // episodesTemp = episodesTemp.filter(this.episodeTypeIntersect);
+    // console.log(episodesTemp);
     this.episodesAvailable = episodesTemp;
   }
 }

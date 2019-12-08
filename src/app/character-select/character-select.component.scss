@@ -32,7 +32,7 @@ div {
     max-height: 105px;
   }
 
-  &:hover {
+  &:hover:not(.unselectable) {
     @include shadow($hack-fraud-white);
     cursor: pointer;
   }
@@ -43,7 +43,7 @@ div {
 }
 
 .unselectable {
-  -webkit-filter: brightness(40%) saturate(60%);
-          filter: brightness(40%) saturate(60%);
+  -webkit-filter: brightness(30%) saturate(60%);
+          filter: brightness(30%) saturate(60%);
   @include shadow(black);
 }

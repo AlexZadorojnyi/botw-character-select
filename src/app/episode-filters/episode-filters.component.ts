@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { HackFraudService } from '../hack-fraud.service';
 
 @Component({
   selector: 'app-episode-filters',
@@ -7,30 +8,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EpisodeFiltersComponent implements OnInit {
 
-  episodeTypes = [
-    'Best of the Worst', 'Wheel of the Worst', 'Plinketto',
-    'Spotlight Episode', 'Black Spine Edition', 'Battle of the Genres',
-    'Christmas Special', 'Halloween Special'
-  ];
-  selectedEpisodeTypes = [];
+  hfService: HackFraudService;
 
-  constructor() {
-    this.selectedEpisodeTypes = Object.assign([], this.episodeTypes);
-  }
-
-  select(episodeType: string) {
-    const i = this.selectedEpisodeTypes.indexOf(episodeType);
-    if (i !== -1) {
-      this.selectedEpisodeTypes.splice(i, 1);
-    } else {
-      this.selectedEpisodeTypes.push(episodeType);
-    }
-    console.log(this.selectedEpisodeTypes);
-  }
-
-  reset() {
-    this.selectedEpisodeTypes = Object.assign([], this.episodeTypes);
-    console.log(this.selectedEpisodeTypes);
+  constructor(hfService: HackFraudService) {
+    this.hfService = hfService;
   }
 
   ngOnInit() {

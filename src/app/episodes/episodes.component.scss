@@ -6,3 +6,40 @@ li {
   font-size: 12px;
   font-weight: 100;
 }
+
+.episode-container {
+  width: 571px;
+  height: 107px;
+  border: 2px solid $hack-fraud-white;
+  border-radius: 5px;
+  background-color: $hack-fraud-black;
+  margin-bottom: 20px;
+  overflow: hidden;
+
+  img {
+    max-height: 100%;
+  }
+
+  div:nth-child(1) {
+    display: block;
+    float: left;
+    height: 107px;
+    width: auto;
+    padding-right: 10px;
+  }
+
+  div:nth-child(2) {
+    display: block;
+    font-size: 20px;
+    line-height: 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: $hack-fraud-white;
+    padding: 10px;
+  }
+
+  span {
+    font-family: sans-serif;
+    color: $hack-fraud-white;
+  }
+}

@@ -3,10 +3,19 @@
 app-character-select {
   grid-area: characters;
   text-align: center;
+  position: sticky;
+  top: 75px;
+  height: 680px;
+  padding-top: 20px;
 }
 
 app-episode-filters {
   grid-area: episode-filters;
+  position: sticky;
+  padding-top: 20px;
+  top: 75px;
+  height: 90px;
+  background-color: $hack-fraud-black;
 }
 
 app-episodes {

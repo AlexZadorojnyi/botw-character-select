@@ -1,5 +1,9 @@
-<ul>
-  <li *ngFor="let episodes of this.hfService.getEpisodesAvailable()">
-    <h2>{{ episodes.title }}</h2>
-  </li>
-</ul>
+<div class="episode-container" *ngFor="let episode of this.hfService.getEpisodesAvailable()">
+  <div>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v={{ episode.videoID }}">
+      <img src="https://img.youtube.com/vi/{{ episode.videoID }}/maxresdefault.jpg" alt="episode.title">
+    </a>
+  </div>
+  <div>{{ episode.title }}</div>
+  <span>{{ episode.movies }}</span>
+</div>

@@ -6,6 +6,7 @@
 
 body {
   background-color: $hack-fraud-black;
+  overflow-y: scroll;
 }
 
 #banner {
@@ -16,6 +17,9 @@ body {
   font-size: 60px;
   line-height: 75px;
   color: $hack-fraud-orange;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
 
   span {
     font-size: 40px;
@@ -27,8 +31,7 @@ app-root {
   display: grid;
   grid-template-columns: auto 305px 575px auto;
   grid-column-gap: 30px;
-  grid-template-rows: 0px 80px auto;
-  grid-row-gap: 20px;
+  grid-template-rows: 0px 120px auto;
   grid-template-areas:
     '. . . .'
     '. characters episode-filters .'
