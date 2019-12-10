@@ -2,3 +2,8 @@ $hack-fraud-black: #15171b;
 $hack-fraud-grey: #43454a;
 $hack-fraud-white: #c0c6d3;
 $hack-fraud-orange: #cc3914;
+$shadow-size: 0px 0px 2px 3px;
+@mixin shadow($color) {
+  -webkit-box-shadow: $shadow-size $color;
+     -moz-box-shadow: $shadow-size $color;
+          box-shadow: $shadow-size $color; }

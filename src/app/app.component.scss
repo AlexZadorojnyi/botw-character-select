@@ -16,6 +16,7 @@ app-episode-filters {
   top: 75px;
   height: 90px;
   background-color: $hack-fraud-black;
+  z-index: 99;
 }
 
 app-episodes {

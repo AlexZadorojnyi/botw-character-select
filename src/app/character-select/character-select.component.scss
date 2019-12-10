@@ -1,9 +1,4 @@
 @import '../../scss/_vars.scss';
-$shadow-size: 0px 0px 2px 3px;
-@mixin shadow($color) {
-  -webkit-box-shadow: $shadow-size $color;
-     -moz-box-shadow: $shadow-size $color;
-          box-shadow: $shadow-size $color; }
 
 div {
   width: 95px;

@@ -5,5 +5,11 @@
   <div class="button--episode-types__toggle"><div></div></div>
   <span class="button--episode-types__text">{{ episodeType }}</span>
 </div>
-<div class="button button--order"><span>^</span></div>
+<div class="button button--order"
+     (click)="this.hfService.reverseEpisodeOrder()">
+  <span>
+    <i class="fas fa-sort-amount-down"
+       [ngClass]="{'fa-sort-amount-up' : this.hfService.getEpisodeFilters().reverseOrder}"></i>
+  </span>
+</div>
 <div class="button button--clear" (click)="this.hfService.resetEpisodeFilters()"><span>Reset</span></div>

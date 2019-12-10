@@ -1,9 +1,10 @@
-<div class="episode-container" *ngFor="let episode of this.hfService.getEpisodesAvailable()">
-  <div>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v={{ episode.videoID }}">
-      <img src="https://img.youtube.com/vi/{{ episode.videoID }}/maxresdefault.jpg" alt="episode.title">
+<div class="episode" *ngFor="let episode of this.hfService.getEpisodes() | sortEpisodesPipe: this.hfService.getEpisodeFilters()">
+  <div class="episode--thumbnail">
+    <a class="episode--thumbnail__link" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v={{ episode.videoID }}">
+      <img class="episode--thumbnail__image" src="https://img.youtube.com/vi/{{ episode.videoID }}/maxresdefault.jpg" alt="episode.title">
     </a>
   </div>
-  <div>{{ episode.title }}</div>
-  <span>{{ episode.movies }}</span>
+  <div class="episode--title">{{ episode.title }}</div>
+  <!-- <span>{{ episode.movies }}</span> -->
+  <div class="episode--expand"></div>
 </div>
