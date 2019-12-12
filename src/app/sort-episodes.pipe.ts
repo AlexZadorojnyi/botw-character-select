@@ -1,6 +1,5 @@
 import { Pipe, PipeTransform } from '@angular/core';
 import { HackFraudService } from './hack-fraud.service';
-import { applySourceSpanToExpressionIfNeeded } from '@angular/compiler/src/output/output_ast';
 
 @Pipe({
   name: 'sortEpisodesPipe',

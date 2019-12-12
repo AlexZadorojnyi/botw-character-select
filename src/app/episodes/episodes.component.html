@@ -1,10 +1,28 @@
-<div class="episode" *ngFor="let episode of this.hfService.getEpisodes() | sortEpisodesPipe: this.hfService.getEpisodeFilters()">
-  <div class="episode--thumbnail">
-    <a class="episode--thumbnail__link" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v={{ episode.videoID }}">
-      <img class="episode--thumbnail__image" src="https://img.youtube.com/vi/{{ episode.videoID }}/maxresdefault.jpg" alt="episode.title">
-    </a>
+<!-- EPISODE -->
+<div class="episode"
+     *ngFor="let episode of this.hfService.getEpisodes() | sortEpisodesPipe: this.hfService.getEpisodeFilters()"
+     [ngClass]="{'selected': this.hfService.episodeIsSelected(episode.number)}">
+  <!-- MAIN AREA -->
+  <div class="episode--main" (click)="this.hfService.selectEpisode(episode.number)">
+    <!-- THUMBNAIL -->
+    <div class="episode--main--thumbnail">
+      <a class="episode--main--thumbnail__link" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v={{ episode.videoID }}">
+        <img class="episode--main--thumbnail__image" src="https://img.youtube.com/vi/{{ episode.videoID }}/maxresdefault.jpg" alt="episode.title">
+      </a>
+    </div>
+    <!-- TITLE -->
+    <div class="episode--main--title">
+      <a href="https://www.youtube.com/watch?v={{ episode.videoID }}">{{ episode.title }}</a>
+    </div>
+    <!-- EXPAND ICON -->
+    <!-- <div class="episode--main--expand-icon"></div> -->
   </div>
-  <div class="episode--title">{{ episode.title }}</div>
-  <!-- <span>{{ episode.movies }}</span> -->
-  <div class="episode--expand"></div>
+  <div class="episode--break"></div>
+  <!-- EXPAND AREA -->
+  <div class="episode--expand" (click)="this.hfService.selectEpisode(episode.number)">
+    <div class="episode--expand--movie" *ngFor="let movie of episode.movies">
+      <img class="episode--expand--movie--cover" src="assets/images/covers/{{ movie | forbiddenCharactersPipe }}.jpg" alt="">
+      <span class="episode--expand--movie--title">{{ movie }}</span>
+    </div>
+  </div>
 </div>

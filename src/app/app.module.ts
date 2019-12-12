@@ -9,6 +9,7 @@ import { EpisodeFiltersComponent } from './episode-filters/episode-filters.compo
 import { EpisodesComponent } from './episodes/episodes.component';
 
 import { SortEpisodesPipe } from './sort-episodes.pipe';
+import { ForbiddenCharactersPipe } from './forbidden-characters.pipe';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { SortEpisodesPipe } from './sort-episodes.pipe';
     CharacterSelectComponent,
     EpisodeFiltersComponent,
     EpisodesComponent,
-    SortEpisodesPipe
+    SortEpisodesPipe,
+    ForbiddenCharactersPipe
   ],
   imports: [
     BrowserModule,

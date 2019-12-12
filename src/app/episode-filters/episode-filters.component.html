@@ -1,15 +1,25 @@
+<!-- FILTER BUTTONS -->
 <div class="button button--episode-types"
      *ngFor="let episodeType of this.hfService.getEpisodeTypes()"
      (click)="this.hfService.selectEpisodeFilter(episodeType)"
-     [ngClass]="{'selected' : this.hfService.episodeTypeIsSelected(episodeType)}">
+     [ngClass]="{'selected' : this.hfService.episodeFilterIsSelected(episodeType)}">
+  <!-- TOGGLE -->
   <div class="button--episode-types__toggle"><div></div></div>
+  <!-- TEXT -->
   <span class="button--episode-types__text">{{ episodeType }}</span>
 </div>
+<!-- ORDER BUTTON -->
 <div class="button button--order"
      (click)="this.hfService.reverseEpisodeOrder()">
   <span>
-    <i class="fas fa-sort-amount-down"
-       [ngClass]="{'fa-sort-amount-up' : this.hfService.getEpisodeFilters().reverseOrder}"></i>
+    <i class="fas"
+       [ngClass]="{'fa-sort-amount-up': this.hfService.getEpisodeFilters().reverseOrder,
+                   'fa-sort-amount-down': !this.hfService.getEpisodeFilters().reverseOrder}">
+    </i>
   </span>
 </div>
-<div class="button button--clear" (click)="this.hfService.resetEpisodeFilters()"><span>Reset</span></div>
+<!-- CLEAR BUTTON -->
+<div class="button button--clear"
+     (click)="this.hfService.resetEpisodeFilters()">
+  <span>Reset</span>
+</div>
