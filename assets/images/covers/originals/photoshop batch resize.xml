@@ -11,11 +11,11 @@
 	<tiff>false</tiff>
 	<lzw>false</lzw>
 	<converticc>false</converticc>
-	<q>5</q>
+	<q>9</q>
 	<max>true</max>
 	<jpegresize>true</jpegresize>
-	<jpegw></jpegw>
-	<jpegh>170</jpegh>
+	<jpegw>120</jpegw>
+	<jpegh>120</jpegh>
 	<psdresize>false</psdresize>
 	<psdw></psdw>
 	<psdh></psdh>
