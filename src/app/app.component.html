@@ -1,3 +1,8 @@
-<app-character-select></app-character-select>
-<app-episode-filters></app-episode-filters>
-<app-episodes></app-episodes>
+<div class="mobile-buttons">
+  <div class="mobile-buttons--filters" (click)="showElement('filters')">FILTERS</div>
+  <div class="mobile-buttons--frauds" (click)="showElement('frauds')">FRAUDS</div>
+  <div class="mobile-buttons--collapse" (click)="showElement('episodes')">^</div>
+</div>
+<app-character-select id="frauds"></app-character-select>
+<app-episode-filters id="filters"></app-episode-filters>
+<app-episodes id="episodes"></app-episodes>

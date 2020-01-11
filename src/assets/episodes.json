@@ -686,5 +686,21 @@
     "type": [ "Best of the Worst", "Halloween Special" ],
 		"cast": [ "Josh", "Jay", "Mike", "Jack" ],
 		"movies": [ "Jack-O", "Rock 'n' Roll Nightmare", "Shark Exorcist" ]
+  },
+	{
+		"title": "Best of the Worst: A Very Scary Christmas",
+		"number": 86,
+		"videoID": "ScgaYFvuBFM",
+    "type": [ "Best of the Worst", "Christmas Special" ],
+		"cast": [ "Jay", "Rich", "Mike", "Mack" ],
+		"movies": [ "Santa Claws", "Iced", "Silent Night, Deadly Night Part 2" ]
+	},
+	{
+		"title": "Best of the Worst: Wicked World",
+		"number": 87,
+		"videoID": "hoel2EiTjLU",
+    "type": [ "Best of the Worst", "Spotlight Episode" ],
+		"cast": [ "Mike", "Rich", "Josh", "Jay" ],
+		"movies": [ "Wicked World" ]
 	}
 ]

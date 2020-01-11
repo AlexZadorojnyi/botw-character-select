@@ -1,6 +1,6 @@
 <!-- EPISODE -->
 <div class="episode"
-     *ngFor="let episode of this.hfService.getEpisodes() | sortEpisodesPipe: this.hfService.getEpisodeFilters()"
+     *ngFor="let episode of this.episodes | sortEpisodesPipe: this.hfService.getEpisodeFilters()"
      [ngClass]="{'selected': this.hfService.episodeIsSelected(episode.number)}">
   <!-- MAIN AREA -->
   <div class="episode--main" (click)="this.hfService.selectEpisode(episode.number)">
@@ -12,7 +12,7 @@
     </div>
     <!-- TITLE -->
     <div class="episode--main--title">
-      <a href="https://www.youtube.com/watch?v={{ episode.videoID }}">{{ episode.title }}</a>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v={{ episode.videoID }}">{{ episode.title }}</a>
     </div>
     <!-- EXPAND ICON -->
     <!-- <div class="episode--main--expand-icon"></div> -->
@@ -20,6 +20,7 @@
   <div class="episode--break"></div>
   <!-- EXPAND AREA -->
   <div class="episode--expand" (click)="this.hfService.selectEpisode(episode.number)">
+    <!-- MOVIES -->
     <div class="episode--expand--movie" *ngFor="let movie of episode.movies">
       <img class="episode--expand--movie--cover" src="assets/images/covers/{{ movie | forbiddenCharactersPipe }}.jpg" alt="">
       <span class="episode--expand--movie--title">{{ movie }}</span>

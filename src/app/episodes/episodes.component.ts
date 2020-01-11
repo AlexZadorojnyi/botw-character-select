@@ -9,9 +9,11 @@ import { HackFraudService } from '../hack-fraud.service';
 export class EpisodesComponent implements OnInit {
 
   hfService: HackFraudService;
+  episodes: [];
 
   constructor(hfService: HackFraudService) {
     this.hfService = hfService;
+    this.episodes = hfService.getEpisodes();
   }
 
   ngOnInit() {

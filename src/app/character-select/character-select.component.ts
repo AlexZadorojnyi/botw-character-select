@@ -14,7 +14,6 @@ export class CharacterSelectComponent implements OnInit {
     this.hfService = hfService;
   }
 
-  ngOnInit() {
-  }
+  ngOnInit() {}
 
 }

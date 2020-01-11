@@ -6,8 +6,9 @@ div {
   display: inline-block;
   margin-right: 10px;
   margin-bottom: 10px;
-  border-radius: 5px;
   overflow: hidden;
+  border-radius: 5px;
+  font-size: 0px;
   transition:
     box-shadow 0.3s ease-in-out,
     filter 0.3s ease-in-out;
@@ -41,4 +42,29 @@ div {
   -webkit-filter: brightness(30%) saturate(60%);
           filter: brightness(30%) saturate(60%);
   @include shadow(black);
+}
+
+@media (max-width: 600px) {
+  div {
+    margin-bottom: 0px;
+
+    &:nth-child(-n+6) {
+      width: calc(33.3% - 8px);
+      height: auto;
+      margin-right: 8px;
+      margin-bottom: 8px;
+    }
+
+    &:nth-child(n+7) {
+      width: calc(25% - 8px);
+      height: auto;
+      margin-right: 8px;
+      margin-bottom: 8px;
+    }
+
+    img {
+      max-height: 100%;
+      max-width: 100%;
+    }
+  }
 }

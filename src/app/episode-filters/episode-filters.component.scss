@@ -59,9 +59,9 @@
   &--clear {
     background-color: $hack-fraud-white;
     width: auto;
+    line-height: 20px;
 
     span {
-      vertical-align: middle;
       font-family: sans-serif;
       font-weight: bold;
       margin-left: 7px;
@@ -87,5 +87,58 @@
     -webkit-transform: translateX(12px);
         -ms-transform: translateX(12px);
             transform: translateX(12px);
+  }
+}
+
+@media (max-width: 600px) {
+  .button {
+    font-size: 1.75rem;
+    height: 40px;
+    border-radius: 20px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+
+    &:nth-last-child(1),
+    &:nth-last-child(2) {
+      margin-bottom: 10px;
+    }
+
+    &--episode-types {
+      width: 100%;
+
+      &__toggle {
+        width: 56px;
+        height: 32px;
+        border-radius: 16px;
+        margin: 4px;
+
+        div {
+          width: 24px;
+          height: 24px;
+          border-radius: 12px;
+          margin: 4px;
+          -webkit-transition: .3s;
+          transition: .3s;
+        }
+      }
+    }
+
+    &--order,
+    &--clear {
+      line-height: 40px;
+    }
+
+    &--order {
+      width: 40px;
+      margin-right: 8px;
+    }
+  }
+
+  .selected {
+    .button--episode-types__toggle > div {
+      -webkit-transform: translateX(24px);
+          -ms-transform: translateX(24px);
+              transform: translateX(24px);
+    }
   }
 }

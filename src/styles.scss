@@ -1,4 +1,5 @@
 @import 'scss/_vars.scss';
+@import 'scss/reset.scss';
 
 *{
   margin: 0;
@@ -23,6 +24,7 @@ body {
   position: sticky;
   top: 0px;
   z-index: 100;
+  cursor: default;
 
   span {
     font-size: 40px;
@@ -39,4 +41,22 @@ app-root {
     '. . . .'
     '. characters episode-filters .'
     '. characters episodes .';
+}
+
+@media (max-width: 600px) {
+  #banner {
+    font-size: 1.5rem;
+    height: 2rem;
+    line-height: 2rem;
+    position: fixed;
+    width: 100%;
+
+    span {
+      font-size: 1rem;
+    }
+  }
+
+  app-root {
+    display: block;
+  }
 }
