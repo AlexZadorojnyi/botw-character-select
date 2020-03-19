@@ -83,7 +83,7 @@
 		"title": "Best of the Worst: Night Beast, Trick or Treat, and Skull Forest",
 		"number": 11,
 		"videoID": "J7eSdXLmj9A",
-    "type": [ "Best of the Worst", "Halloween Special" ],
+		"type": [ "Best of the Worst", "Halloween Special" ],
 		"cast": [ "Jack", "Jay", "Rich", "Mike" ],
 		"movies": [ "Night Beast", "Trick or Treat", "Skull Forest" ]
 	},
@@ -107,7 +107,7 @@
 		"title": "Best of the Worst: Elves, Santa Claus, and Christmas Vacation 2",
 		"number": 14,
 		"videoID": "3plH6M1LadY",
-    "type": [ "Best of the Worst", "Christmas Special" ],
+		"type": [ "Best of the Worst", "Christmas Special" ],
 		"cast": [ "Rich", "Jack", "Jessi", "Mike" ],
 		"movies": [ "Elves", "Santa Claus", "Christmas Vacation 2: Cousin Eddie's Island Adventure" ]
 	},
@@ -163,7 +163,7 @@
 		"title": "Best of the Worst: High Voltage, Death Spa, and Space Mutiny",
 		"number": 21,
 		"videoID": "6pgbB9ORqRg",
-    "type": [ "Best of the Worst", "Battle of the Genres" ],
+		"type": [ "Best of the Worst", "Battle of the Genres" ],
 		"cast": [ "Rich", "Mike", "Josh", "Jay" ],
 		"movies": [ "High Voltage", "Death Spa", "Space Mutiny" ]
 	},
@@ -195,7 +195,7 @@
 		"title": "Best of the Worst: The Item, The Crawlers, and Blood Lock",
 		"number": 25,
 		"videoID": "n747ktceuwI",
-    "type": [ "Best of the Worst", "Halloween Special"  ],
+		"type": [ "Best of the Worst", "Halloween Special"  ],
 		"cast": [ "Mike", "Jessi", "Jay", "Josh" ],
 		"movies": [ "The Item", "The Crawlers", "Bloodlock" ]
 	},
@@ -205,13 +205,13 @@
 		"videoID": "wZFuyATj5EI",
 		"type": [ "Wheel of the Worst" ],
 		"cast": [ "Jay", "Mike", "Rich", "Freddie" ],
-		"movies": [ "Ice Dams", "Kids and Airbags", "How to Become a Teenage Ninja" ]
+		"movies": [ "Ice Dams", "Kids and Airbags", "How to Become a Teenage Ninja", "Dog Sitter"]
 	},
 	{
 		"title": "Best of the Worst: The Star Wars Holiday Special",
 		"number": 27.1,
 		"videoID": "_CtUd0yuYN4",
-    "type": [ "Spotlight Episode", "Christmas Special" ],
+		"type": [ "Spotlight Episode", "Christmas Special" ],
 		"cast": [ "Jack", "Rich", "Mike", "Jay" ],
 		"movies": [ "The Star Wars Holiday Special" ]
 	},
@@ -267,7 +267,7 @@
 		"title": "Best of the Worst: Future War, The Jar, and White Fire",
 		"number": 33,
 		"videoID": "JsnzlIests4",
-    "type": [ "Best of the Worst", "Battle of the Genres" ],
+		"type": [ "Best of the Worst", "Battle of the Genres" ],
 		"cast": [ "Jay", "Josh", "Mike", "Rich" ],
 		"movies": [ "Future War", "The Jar", "White Fire" ]
 	},
@@ -275,7 +275,7 @@
 		"title": "Best of the Worst: Kiss Meets the Phantom of the Park, Killer Workout, and Mystics in Bali",
 		"number": 34,
 		"videoID": "mA5f86pD7o4",
-    "type": [ "Best of the Worst", "Halloween Special" ],
+		"type": [ "Best of the Worst", "Halloween Special" ],
 		"cast": [ "Rich", "Mike", "Jack", "Jay" ],
 		"movies": [ "Kiss Meets the Phantom of the Park", "Killer Workout", "Mystics in Bali" ]
 	},
@@ -283,7 +283,7 @@
 		"title": "Best of the Worst: The Photon Effect, How I Saved the President, and Double Down",
 		"number": 35,
 		"videoID": "2-3wkbqmgxs",
-		"type": [ "Best of the Worst" ],
+		"type": [ "Best of the Worst", "Battle of the Genres" ],
 		"cast": [ "Jay", "Mike", "Max", "Rich" ],
 		"movies": [ "The Photon Effect", "How I Saved the President", "Double Down" ]
 	},
@@ -291,7 +291,7 @@
 		"title": "Best of the Worst: A Very Cannon Christmas",
 		"number": 36,
 		"videoID": "fgbPUHfBJA0",
-    "type": [ "Best of the Worst", "Christmas Special" ],
+		"type": [ "Best of the Worst", "Christmas Special" ],
 		"cast": [ "Mike", "Rich", "Josh", "Jay" ],
 		"movies": [ "Death Wish 3", "The Christmas Tree", "Invasion U.S.A." ]
 	},
@@ -363,7 +363,7 @@
 		"title": "Best of the Worst: Scary or Die, Chopping Mall, Exorcist II: The Heretic",
 		"number": 45,
 		"videoID": "LLanYkRg09I",
-    "type": [ "Best of the Worst", "Halloween Special" ],
+		"type": [ "Best of the Worst", "Halloween Special" ],
 		"cast": [ "Jack", "Josh", "Jay", "Rich" ],
 		"movies": [ "Scary or Die", "Chopping Mall", "Exorcist II: The Heretic" ]
 	},
@@ -379,7 +379,7 @@
 		"title": "Best of the Worst: RepliGATOR, Johnson Family Christmas Dinner, and Alligator",
 		"number": 47,
 		"videoID": "Urd5vtoGmfI",
-    "type": [ "Best of the Worst", "Christmas Special" ],
+		"type": [ "Best of the Worst", "Christmas Special" ],
 		"cast": [ "Rich", "Jay", "Jack", "Mike" ],
 		"movies": [ "RepliGATOR", "Johnson Family Christmas Dinner", "Alligator" ]
 	},
@@ -467,7 +467,7 @@
 		"title": "Best of the Worst: Vampire Assassin, Hack-O-Lantern, and Cathy's Curse",
 		"number": 58,
 		"videoID": "W1QJazEHMUo",
-    "type": [ "Best of the Worst", "Halloween Special" ],
+		"type": [ "Best of the Worst", "Halloween Special" ],
 		"cast": [ "Josh", "Mike", "Jay", "Jack" ],
 		"movies": [ "Vampire Assassin", "Hack-O-Lantern", "Cathy's Curse" ]
 	},
@@ -491,7 +491,7 @@
 		"title": "Best of the Worst: Merry Kick-mas!",
 		"number": 61,
 		"videoID": "PSqcvmLE0ek",
-    "type": [ "Best of the Worst", "Christmas Special" ],
+		"type": [ "Best of the Worst", "Christmas Special" ],
 		"cast": [ "Jack", "Jay", "Mike", "Rich" ],
 		"movies": [ "Karate Cop", "The Christmas Light", "Night of the Kickfighters" ]
 	},
@@ -563,7 +563,7 @@
 		"title": "Best of the Worst: Carnivore, HauntedWeen, and Black Roses",
 		"number": 70,
 		"videoID": "7AbMMTwu3Fs",
-    "type": [ "Best of the Worst", "Halloween Special" ],
+		"type": [ "Best of the Worst", "Halloween Special" ],
 		"cast": [ "Jack", "Mike", "Jay", "Rich" ],
 		"movies": [ "Carnivore", "HauntedWeen", "Black Roses" ]
 	},
@@ -587,7 +587,7 @@
 		"title": "Best of the Worst: Christmas or Cats",
 		"number": 73,
 		"videoID": "8LsPkYeaKBs",
-    "type": [ "Best of the Worst", "Christmas Special" ],
+		"type": [ "Best of the Worst", "Christmas Special" ],
 		"cast": [ "Rich", "Jay", "Josh", "Mike" ],
 		"movies": [ "Two Front Teeth", "Uninvited", "Christy: Santa's First Female Reindeer" ]
 	},
@@ -611,7 +611,7 @@
 		"title": "Best of the Worst: Spookies, Action USA, and Alien Private Eye",
 		"number": 76,
 		"videoID": "6hHyn29O81k",
-    "type": [ "Best of the Worst", "Battle of the Genres" ],
+		"type": [ "Best of the Worst", "Battle of the Genres" ],
 		"cast": [ "Jack", "Rich", "Tim", "Jay" ],
 		"movies": [ "Spookies", "Action U.S.A.", "Alien Private Eye" ]
 	},
@@ -644,7 +644,7 @@
 		"number": 80,
 		"videoID": "YaSkO4TosYo",
 		"type": [ "Best of the Worst" ],
-		"cast": [ "Josh", "Mack", "Mike", "Shawn" ],
+		"cast": [ "Rich", "Josh", "Mack", "Mike", "Shawn" ],
 		"movies": [ "Hawk Jones", "Winterbeast", "ROAR" ]
 	},
 	{
@@ -683,15 +683,15 @@
 		"title": "Best of the Worst: Jack-O, Rock n' Roll Nightmare, and Shark Exorcist",
 		"number": 85,
 		"videoID": "X7_ZU4dlqXk",
-    "type": [ "Best of the Worst", "Halloween Special" ],
+		"type": [ "Best of the Worst", "Halloween Special" ],
 		"cast": [ "Josh", "Jay", "Mike", "Jack" ],
 		"movies": [ "Jack-O", "Rock 'n' Roll Nightmare", "Shark Exorcist" ]
-  },
+	},
 	{
 		"title": "Best of the Worst: A Very Scary Christmas",
 		"number": 86,
 		"videoID": "ScgaYFvuBFM",
-    "type": [ "Best of the Worst", "Christmas Special" ],
+		"type": [ "Best of the Worst", "Christmas Special" ],
 		"cast": [ "Jay", "Rich", "Mike", "Mack" ],
 		"movies": [ "Santa Claws", "Iced", "Silent Night, Deadly Night Part 2" ]
 	},
@@ -699,8 +699,24 @@
 		"title": "Best of the Worst: Wicked World",
 		"number": 87,
 		"videoID": "hoel2EiTjLU",
-    "type": [ "Best of the Worst", "Spotlight Episode" ],
+		"type": [ "Best of the Worst", "Spotlight Episode" ],
 		"cast": [ "Mike", "Rich", "Josh", "Jay" ],
 		"movies": [ "Wicked World" ]
+	},
+	{
+		"title": "Best of the Worst: Black Spine Junka 2",
+		"number": 88,
+		"videoID": "9M39zY9OXFA",
+		"type": [ "Black Spine Edition" ],
+		"cast": [ "Tim", "Mack", "Rich", "Mike" ],
+		"movies": [ "Kelly Bear Teaches Respectfulness and Friendship Skills", "The Gospel According to St. Bernard", "Fire Safety for Older Adults", "If You Love Me... Show Me!" ]
+	},
+	{
+		"title": "Best of the Worst: Showdown, Robot in the Family, and Bloodz vs. Wolvez",
+		"number": 89,
+		"videoID": "eHhLZi4sj0k",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Rich", "Jack", "Mike", "Jay" ],
+		"movies": [ "Showdown", "Robot in the Family", "Bloodz vs. Wolvez" ]
 	}
 ]
