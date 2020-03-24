@@ -19,7 +19,7 @@ export class HackFraudService {
     cast: [],
     types: [],
     typeModifiers: [],
-    reverseOrder: true
+    reverseOrder: false
   };
 
   private hackFraudsUnselectable = [];

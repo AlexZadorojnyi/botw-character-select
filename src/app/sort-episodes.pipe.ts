@@ -19,7 +19,7 @@ export class SortEpisodesPipe implements PipeTransform {
     'reverseOrder': boolean
   }): Array<any> {
 
-    console.log(episodes);
+    console.log(args);
 
     if (!episodes || episodes === undefined || episodes.length === 0) { return null; }
 
