@@ -718,5 +718,29 @@
 		"type": [ "Wheel of the Worst" ],
 		"cast": [ "Rich", "Jack", "Mike", "Jay" ],
 		"movies": [ "Showdown", "Robot in the Family", "Bloodz vs. Wolvez" ]
+	},
+	{
+		"title": "Best of the Worst: Bad Movie Scavenger Hunt",
+		"number": 90,
+		"videoID": "kuS8ek6OM44",
+		"type": [ "Bad Movie Scavanger Hunt" ],
+		"cast": [ "Jay", "Mike", "Rich" ],
+		"movies": [ "Computer Beach Party", "Mission Killfast" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Worst #21",
+		"number": 91,
+		"videoID": "o4eSVXCzRyI",
+		"type": [ "Wheel of the Worst" ],
+		"cast": [ "Josh", "Rich", "Mike", "Jay" ],
+		"movies": [ "Turtle Dreams by Meredith Monk", "Safe Food Attitude", "How to Host a Princess Party", "Massaging the Elderly" ]
+	},
+	{
+		"title": "Best of the Worst: Diamond Cobra vs. The White Fox",
+		"number": 92,
+		"videoID": "eEKKVSjw6JY",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Jay", "Mike", "Rich" ],
+		"movies": [ "Diamond Cobra vs. The White Fox" ]
 	}
 ]
