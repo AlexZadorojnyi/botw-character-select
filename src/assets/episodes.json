@@ -742,5 +742,13 @@
 		"type": [ "Spotlight Episode" ],
 		"cast": [ "Jay", "Mike", "Rich" ],
 		"movies": [ "Diamond Cobra vs. The White Fox" ]
+	},
+	{
+		"title": "Best of the Worst: Twin Dragon Encounter, American Rickshaw, and Infested",
+		"number": 93,
+		"videoID": "F0jtrV3RxI",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Rich", "Mike", "Jack", "Jay" ],
+		"movies": [ "Twin Dragon Encounter", "American Rickshaw", "Infested" ]
 	}
 ]
