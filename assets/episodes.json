@@ -699,7 +699,7 @@
 		"title": "Best of the Worst: Wicked World",
 		"number": 87,
 		"videoID": "hoel2EiTjLU",
-		"type": [ "Best of the Worst", "Spotlight Episode" ],
+		"type": [ "Spotlight Episode" ],
 		"cast": [ "Mike", "Rich", "Josh", "Jay" ],
 		"movies": [ "Wicked World" ]
 	},
@@ -715,7 +715,7 @@
 		"title": "Best of the Worst: Showdown, Robot in the Family, and Bloodz vs. Wolvez",
 		"number": 89,
 		"videoID": "eHhLZi4sj0k",
-		"type": [ "Wheel of the Worst" ],
+		"type": [ "Best of the Worst" ],
 		"cast": [ "Rich", "Jack", "Mike", "Jay" ],
 		"movies": [ "Showdown", "Robot in the Family", "Bloodz vs. Wolvez" ]
 	},
@@ -746,9 +746,17 @@
 	{
 		"title": "Best of the Worst: Twin Dragon Encounter, American Rickshaw, and Infested",
 		"number": 93,
-		"videoID": "F0jtrV3RxI",
+		"videoID": "-F0jtrV3RxI",
 		"type": [ "Best of the Worst" ],
 		"cast": [ "Rich", "Mike", "Jack", "Jay" ],
 		"movies": [ "Twin Dragon Encounter", "American Rickshaw", "Infested" ]
+	},
+	{
+		"title": "Best of the Worst: Shock Em Dead, Hollow Gate, and The Satan Killer",
+		"number": 94,
+		"videoID": "DXWTfamqgMg",
+		"type": [ "Best of the Worst", "Halloween Special" ],
+		"cast": [ "Rich", "Josh", "Mike", "Jay" ],
+		"movies": [ "Shock Em Dead", "Hollow Gate", "The Satan Killer" ]
 	}
 ]
