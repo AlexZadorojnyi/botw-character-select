@@ -758,5 +758,13 @@
 		"type": [ "Best of the Worst", "Halloween Special" ],
 		"cast": [ "Rich", "Josh", "Mike", "Jay" ],
 		"movies": [ "Shock Em Dead", "Hollow Gate", "The Satan Killer" ]
+	},
+	{
+		"title": "Best of the Worst: Ben and Arthur",
+		"number": 95,
+		"videoID": "Xto-7_xWb9g",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Rich", "Mike", "Jay" ],
+		"movies": [ "Ben and Arthur" ]
 	}
 ]
