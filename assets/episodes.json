@@ -766,5 +766,13 @@
 		"type": [ "Spotlight Episode" ],
 		"cast": [ "Rich", "Mike", "Jay" ],
 		"movies": [ "Ben & Arthur" ]
+	},
+	{
+		"title": "Best of the Worst: Christmas 2020",
+		"number": 96,
+		"videoID": "nQxOLpkRWzw",
+		"type": [ "Black Spine Edition", "Christmas Special" ],
+		"cast": [ "Jay", "Mike", "Rich", "Tim" ],
+		"movies": [ "It Ain't Worth It", "Second Chance vs Magnum Force", "How to Carve Great Faces for Halloween", "Small Change", "How to Develop Your Psychic Powers", "90 Degrees in the Pool", "Your Alcohol I.Q.", "Dream Bunny" ]
 	}
 ]
