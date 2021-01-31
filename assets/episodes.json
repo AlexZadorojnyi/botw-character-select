@@ -774,5 +774,13 @@
 		"type": [ "Black Spine Edition", "Christmas Special" ],
 		"cast": [ "Jay", "Mike", "Rich", "Tim" ],
 		"movies": [ "It Ain't Worth It", "Second Chance vs Magnum Force", "How to Carve Great Faces for Halloween", "Small Change", "How to Develop Your Psychic Powers", "90 Degrees in the Pool", "Your Alcohol I.Q.", "Dream Bunny" ]
+	},
+	{
+		"title": "Best of the Worst: Plinketto #9",
+		"number": 97,
+		"videoID": "xPLvqG2adTw",
+		"type": [ "Plinketto" ],
+		"cast": [ "Jack", "Rich", "Mike", "Jay" ],
+		"movies": [ "Spacejacked", "The Dungeonmaster", "The Suckling" ]
 	}
 ]
