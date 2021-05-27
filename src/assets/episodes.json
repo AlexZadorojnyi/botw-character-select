@@ -738,7 +738,7 @@
 	{
 		"title": "Best of the Worst: Diamond Cobra vs. The White Fox",
 		"number": 92,
-		"videoID": "eEKKVSjw6JY",
+		"videoID": "FmqQM37gefs",
 		"type": [ "Spotlight Episode" ],
 		"cast": [ "Jay", "Mike", "Rich" ],
 		"movies": [ "Diamond Cobra vs. The White Fox" ]
@@ -782,5 +782,21 @@
 		"type": [ "Plinketto" ],
 		"cast": [ "Jack", "Rich", "Mike", "Jay" ],
 		"movies": [ "Spacejacked", "The Dungeonmaster", "The Suckling" ]
+	},
+	{
+		"title": "Best of the Worst: Blood Shack (aka The Chooper)",
+		"number": 98,
+		"videoID": "_8qGSkcX6R0",
+		"type": [ "Spotlight Episode" ],
+		"cast": [ "Jay", "Mike", "Rich" ],
+		"movies": [ "Blood Shack" ]
+	},
+	{
+		"title": "Best of the Worst: LA Wars, Unmasking the Idol, and Robowoman",
+		"number": 99,
+		"videoID": "NgBgpkip58k",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Tim", "Jay", "Rich", "Mike" ],
+		"movies": [ "LA Wars", "Unmasking the Idol", "Robowoman" ]
 	}
 ]
