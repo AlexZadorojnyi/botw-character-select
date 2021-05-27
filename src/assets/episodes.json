@@ -798,5 +798,13 @@
 		"type": [ "Best of the Worst" ],
 		"cast": [ "Tim", "Jay", "Rich", "Mike" ],
 		"movies": [ "LA Wars", "Unmasking the Idol", "Robowoman" ]
+	},
+	{
+		"title": "Best of the Worst: Wheel of the Black Spine Plinketto",
+		"number": 100,
+		"videoID": "M2MgjPrSVX0",
+		"type": [ "Wheel of the Worst", "Black Spine Edition", "Plinketto" ],
+		"cast": [ "Jack", "Rich", "Mike", "Josh" ],
+		"movies": [ "How to Have Cybersex on the Internet", "Four Line Conics", "Computer Symposium: The Journey Begins", "Monsters of Rock and Roar", "Arranging a Funeral (What Really Happens)", "Fateful Findings" ]
 	}
 ]
