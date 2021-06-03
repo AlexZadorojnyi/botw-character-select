@@ -806,5 +806,13 @@
 		"type": [ "Wheel of the Worst", "Black Spine Edition", "Plinketto" ],
 		"cast": [ "Jack", "Rich", "Mike", "Josh" ],
 		"movies": [ "How to Have Cybersex on the Internet", "Four Line Conics", "Computer Symposium: The Journey Begins", "Monsters of Rock and Roar", "Arranging a Funeral (What Really Happens)", "Fateful Findings" ]
+	},
+	{
+		"title": "Best of the Worst: A*P*E, Easy Kill, and Honorable Men",
+		"number": 101,
+		"videoID": "wqf4lOZEank",
+		"type": [ "Best of the Worst" ],
+		"cast": [ "Josh", "Rich", "Mike", "Jay" ],
+		"movies": [ "Ape", "Easy Kill", "Honorable Men" ]
 	}
 ]
